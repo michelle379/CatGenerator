@@ -36,7 +36,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" id="KiY-gC-kCH">
-                                        <rect key="frame" x="0.0" y="0.0" width="560" height="140"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="540" height="140"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <subviews>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Toy1" translatesAutoresizingMaskIntoConstraints="NO" id="yth-7o-EgX">
@@ -44,15 +44,15 @@
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Toy2" translatesAutoresizingMaskIntoConstraints="NO" id="rv9-Ge-qUg">
-                                                <rect key="frame" x="140" y="8" width="135" height="124"/>
+                                                <rect key="frame" x="135" y="8" width="135" height="124"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Toy4" translatesAutoresizingMaskIntoConstraints="NO" id="P8y-cS-4p1">
-                                                <rect key="frame" x="280" y="0.0" width="135" height="140"/>
+                                                <rect key="frame" x="270" y="0.0" width="135" height="140"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Toy3" translatesAutoresizingMaskIntoConstraints="NO" id="29z-2J-LfW">
-                                                <rect key="frame" x="420" y="0.0" width="135" height="140"/>
+                                                <rect key="frame" x="405" y="0.0" width="135" height="140"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </imageView>
                                         </subviews>
